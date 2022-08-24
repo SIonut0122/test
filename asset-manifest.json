@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.80bf31f1.css",
-    "main.js": "/test/static/js/main.885cba11.js",
+    "main.css": "/test/static/css/main.f7881b73.css",
+    "main.js": "/test/static/js/main.1df54ae8.js",
     "static/media/modal-bg.png": "/test/static/media/modal-bg.f46da9a0e7de7ee8f008.png",
     "static/media/modal-bg-small.png": "/test/static/media/modal-bg-small.e9d2820b7ac193054a00.png",
     "static/media/modal-bg-mobile.png": "/test/static/media/modal-bg-mobile.c6d52db7cabe3fa78c12.png",
@@ -12,11 +12,11 @@
     "static/media/building-one.png": "/test/static/media/building-one.4e91b6b614e24c952996.png",
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
     "index.html": "/test/index.html",
-    "main.80bf31f1.css.map": "/test/static/css/main.80bf31f1.css.map",
-    "main.885cba11.js.map": "/test/static/js/main.885cba11.js.map"
+    "main.f7881b73.css.map": "/test/static/css/main.f7881b73.css.map",
+    "main.1df54ae8.js.map": "/test/static/js/main.1df54ae8.js.map"
   },
   "entrypoints": [
-    "static/css/main.80bf31f1.css",
-    "static/js/main.885cba11.js"
+    "static/css/main.f7881b73.css",
+    "static/js/main.1df54ae8.js"
   ]
 }
