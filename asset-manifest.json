@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.e32024d3.css",
-    "main.js": "/test/static/js/main.81092d00.js",
-    "static/media/modal-bg.png": "/test/static/media/modal-bg.f46da9a0e7de7ee8f008.png",
-    "static/media/modal-bg-small.png": "/test/static/media/modal-bg-small.e9d2820b7ac193054a00.png",
-    "static/media/modal-bg-mobile.png": "/test/static/media/modal-bg-mobile.c6d52db7cabe3fa78c12.png",
+    "main.css": "/test/static/css/main.7a7fd569.css",
+    "main.js": "/test/static/js/main.de14def0.js",
     "static/media/Acumin-ItPro.otf": "/test/static/media/Acumin-ItPro.77f622e300fb69870d7a.otf",
-    "static/media/building-two.png": "/test/static/media/building-two.60fb0be6ed2ff3bdc2a0.png",
     "static/media/Acumin-BdItPro.otf": "/test/static/media/Acumin-BdItPro.24b0858066658977904e.otf",
     "static/media/Acumin-RPro.otf": "/test/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
-    "static/media/building-one.png": "/test/static/media/building-one.4e91b6b614e24c952996.png",
+    "static/media/footer-bottom-bg.png": "/test/static/media/footer-bottom-bg.d4c8004ac24ff4c2c3c4.png",
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
+    "static/media/Industry-Bold.woff": "/test/static/media/Industry-Bold.3ae5c06761f5a3726492.woff",
     "index.html": "/test/index.html",
-    "main.e32024d3.css.map": "/test/static/css/main.e32024d3.css.map",
-    "main.81092d00.js.map": "/test/static/js/main.81092d00.js.map"
+    "main.7a7fd569.css.map": "/test/static/css/main.7a7fd569.css.map",
+    "main.de14def0.js.map": "/test/static/js/main.de14def0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e32024d3.css",
-    "static/js/main.81092d00.js"
+    "static/css/main.7a7fd569.css",
+    "static/js/main.de14def0.js"
   ]
 }
