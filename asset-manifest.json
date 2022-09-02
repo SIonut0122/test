@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.7a7fd569.css",
-    "main.js": "/test/static/js/main.de14def0.js",
+    "main.css": "/test/static/css/main.05b09daf.css",
+    "main.js": "/test/static/js/main.49fb2a82.js",
+    "static/media/footer-bottom-bg.png": "/test/static/media/footer-bottom-bg.bc09e98634b3fbce348b.png",
     "static/media/Acumin-ItPro.otf": "/test/static/media/Acumin-ItPro.77f622e300fb69870d7a.otf",
     "static/media/Acumin-BdItPro.otf": "/test/static/media/Acumin-BdItPro.24b0858066658977904e.otf",
     "static/media/Acumin-RPro.otf": "/test/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
-    "static/media/footer-bottom-bg.png": "/test/static/media/footer-bottom-bg.d4c8004ac24ff4c2c3c4.png",
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
     "static/media/Industry-Bold.woff": "/test/static/media/Industry-Bold.3ae5c06761f5a3726492.woff",
+    "static/media/sup_apk.png": "/test/static/media/sup_apk.e7db37132b8bbd396341.png",
     "index.html": "/test/index.html",
-    "main.7a7fd569.css.map": "/test/static/css/main.7a7fd569.css.map",
-    "main.de14def0.js.map": "/test/static/js/main.de14def0.js.map"
+    "main.05b09daf.css.map": "/test/static/css/main.05b09daf.css.map",
+    "main.49fb2a82.js.map": "/test/static/js/main.49fb2a82.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a7fd569.css",
-    "static/js/main.de14def0.js"
+    "static/css/main.05b09daf.css",
+    "static/js/main.49fb2a82.js"
   ]
 }
