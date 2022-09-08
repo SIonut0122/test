@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.b421c30e.css",
-    "main.js": "/test/static/js/main.6483bf1d.js",
+    "main.css": "/test/static/css/main.68a581bc.css",
+    "main.js": "/test/static/js/main.768e0bf3.js",
     "static/media/mob_bg.png": "/test/static/media/mob_bg.44e677d7957b4854e13e.png",
     "static/media/mob_servit_bg.png": "/test/static/media/mob_servit_bg.f835f1cae9540ab9eb28.png",
     "static/media/Acumin-ItPro.otf": "/test/static/media/Acumin-ItPro.77f622e300fb69870d7a.otf",
@@ -13,11 +13,11 @@
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
     "static/media/Industry-Bold.woff": "/test/static/media/Industry-Bold.3ae5c06761f5a3726492.woff",
     "index.html": "/test/index.html",
-    "main.b421c30e.css.map": "/test/static/css/main.b421c30e.css.map",
-    "main.6483bf1d.js.map": "/test/static/js/main.6483bf1d.js.map"
+    "main.68a581bc.css.map": "/test/static/css/main.68a581bc.css.map",
+    "main.768e0bf3.js.map": "/test/static/js/main.768e0bf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b421c30e.css",
-    "static/js/main.6483bf1d.js"
+    "static/css/main.68a581bc.css",
+    "static/js/main.768e0bf3.js"
   ]
 }
