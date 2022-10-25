@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.1ff750ce.css",
-    "main.js": "/test/static/js/main.9a5a1b1c.js",
+    "main.css": "/test/static/css/main.f9ef04eb.css",
+    "main.js": "/test/static/js/main.a6988606.js",
     "static/media/antre_rem24_head_bg.png": "/test/static/media/antre_rem24_head_bg.0bb2a48a6c8ba0965b73.png",
     "static/media/sec_Artboard_17.png": "/test/static/media/sec_Artboard_17.4c943811c1f49d83dec5.png",
     "static/media/sec_Artboard_18.png": "/test/static/media/sec_Artboard_18.34ccd7becbc03a17a0b1.png",
@@ -15,11 +15,11 @@
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
     "static/media/sec_Artboard_19.png": "/test/static/media/sec_Artboard_19.9e819f57b7dca4d663f4.png",
     "index.html": "/test/index.html",
-    "main.1ff750ce.css.map": "/test/static/css/main.1ff750ce.css.map",
-    "main.9a5a1b1c.js.map": "/test/static/js/main.9a5a1b1c.js.map"
+    "main.f9ef04eb.css.map": "/test/static/css/main.f9ef04eb.css.map",
+    "main.a6988606.js.map": "/test/static/js/main.a6988606.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ff750ce.css",
-    "static/js/main.9a5a1b1c.js"
+    "static/css/main.f9ef04eb.css",
+    "static/js/main.a6988606.js"
   ]
 }
