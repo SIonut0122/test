@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.cbb9e66a.css",
-    "main.js": "/test/static/js/main.03d3d8eb.js",
-    "static/media/antre_rem24_head_bg.png": "/test/static/media/antre_rem24_head_bg.0bb2a48a6c8ba0965b73.png",
+    "main.css": "/test/static/css/main.30ab5160.css",
+    "main.js": "/test/static/js/main.16325ddf.js",
+    "static/media/bg.png": "/test/static/media/bg.38b9ba8039f55f2e281b.png",
     "static/media/Roboto-Regular.ttf": "/test/static/media/Roboto-Regular.f25bd05915c1a3468d3d.ttf",
     "static/media/Acumin-ItPro.otf": "/test/static/media/Acumin-ItPro.77f622e300fb69870d7a.otf",
     "static/media/Acumin-BdItPro.otf": "/test/static/media/Acumin-BdItPro.24b0858066658977904e.otf",
@@ -11,11 +11,11 @@
     "static/media/Industry-Medium.ttf": "/test/static/media/Industry-Medium.4496bb55348b7d9b0744.ttf",
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
     "index.html": "/test/index.html",
-    "main.cbb9e66a.css.map": "/test/static/css/main.cbb9e66a.css.map",
-    "main.03d3d8eb.js.map": "/test/static/js/main.03d3d8eb.js.map"
+    "main.30ab5160.css.map": "/test/static/css/main.30ab5160.css.map",
+    "main.16325ddf.js.map": "/test/static/js/main.16325ddf.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbb9e66a.css",
-    "static/js/main.03d3d8eb.js"
+    "static/css/main.30ab5160.css",
+    "static/js/main.16325ddf.js"
   ]
 }
