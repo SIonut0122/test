@@ -1,28 +1,22 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.b3e0b266.css",
-    "main.js": "/test/static/js/main.74ce1103.js",
+    "main.css": "/test/static/css/main.7c711a76.css",
+    "main.js": "/test/static/js/main.100dd511.js",
     "static/media/Roboto-Bold.ttf": "/test/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
     "static/media/Roboto-Regular.ttf": "/test/static/media/Roboto-Regular.f25bd05915c1a3468d3d.ttf",
     "static/media/Acumin-ItPro.otf": "/test/static/media/Acumin-ItPro.77f622e300fb69870d7a.otf",
     "static/media/Acumin-BdItPro.otf": "/test/static/media/Acumin-BdItPro.24b0858066658977904e.otf",
     "static/media/Acumin-RPro.otf": "/test/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
-    "static/media/sec_Header_Image.png": "/test/static/media/sec_Header_Image.8112c65478f284cc4aa9.png",
+    "static/media/Module_Video_Image.png": "/test/static/media/Module_Video_Image.9a521533ea8d6be57903.png",
     "static/media/Industry-BoldItalic.ttf": "/test/static/media/Industry-BoldItalic.e7870a63bd26ae64f7d7.ttf",
     "static/media/Industry-Medium.ttf": "/test/static/media/Industry-Medium.4496bb55348b7d9b0744.ttf",
-    "static/media/sec_Cunostinte_Image.png": "/test/static/media/sec_Cunostinte_Image.18f16f2eb64f4e3e1bd2.png",
-    "static/media/Untitled-1.png": "/test/static/media/Untitled-1.6b7dd9df4c3c7f1a28bb.png",
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
-    "static/media/sec_Cyber_Sec_Shield.png": "/test/static/media/sec_Cyber_Sec_Shield.d51fe19fdc4b634cbef5.png",
-    "static/media/sec_Cyber_Sec_Background.png": "/test/static/media/sec_Cyber_Sec_Background.4fc0c48ed2ee342e8e86.png",
-    "static/media/sec_hmplog_caseleg.png": "/test/static/media/sec_hmplog_caseleg.8ee8758aba0447a14f95.png",
-    "static/media/background_2.png": "/test/static/media/background_2.1c606b5a745ab8580345.png",
     "index.html": "/test/index.html",
-    "main.b3e0b266.css.map": "/test/static/css/main.b3e0b266.css.map",
-    "main.74ce1103.js.map": "/test/static/js/main.74ce1103.js.map"
+    "main.7c711a76.css.map": "/test/static/css/main.7c711a76.css.map",
+    "main.100dd511.js.map": "/test/static/js/main.100dd511.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3e0b266.css",
-    "static/js/main.74ce1103.js"
+    "static/css/main.7c711a76.css",
+    "static/js/main.100dd511.js"
   ]
 }
