@@ -1,26 +1,20 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.47125c2f.css",
-    "main.js": "/test/static/js/main.6223d017.js",
-    "static/media/noc_bg_header.png": "/test/static/media/noc_bg_header.9fb1ac2433c4e645ecb1.png",
+    "main.css": "/test/static/css/main.be47e623.css",
+    "main.js": "/test/static/js/main.3ab8f88e.js",
+    "static/media/Background_1_mp.png": "/test/static/media/Background_1_mp.544714185a8b55365ad8.png",
+    "static/media/header_img.png": "/test/static/media/header_img.571cf44d53c2cd26c67d.png",
     "static/media/Roboto-Bold.ttf": "/test/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
     "static/media/Roboto-Regular.ttf": "/test/static/media/Roboto-Regular.f25bd05915c1a3468d3d.ttf",
     "static/media/Industry-Medium.ttf": "/test/static/media/Industry-Medium.4496bb55348b7d9b0744.ttf",
-    "static/media/Icon_Nivel3.png": "/test/static/media/Icon_Nivel3.a1b048dbdb0e3a5cbbee.png",
-    "static/media/Icon_Nivel1.png": "/test/static/media/Icon_Nivel1.236406222045e4d84411.png",
+    "static/media/Imagine_3mp.png": "/test/static/media/Imagine_3mp.d009f38fb413a5f6e3ca.png",
     "static/media/Industry-BoldItalic.woff": "/test/static/media/Industry-BoldItalic.69242b201ab1a52bfa4b.woff",
-    "static/media/Image_1.png": "/test/static/media/Image_1.bc77c5e6c5615f800d41.png",
-    "static/media/Icon_Nivel2.png": "/test/static/media/Icon_Nivel2.c655a908153c13add8c1.png",
-    "static/media/Icon_Beneficii_3_1.png": "/test/static/media/Icon_Beneficii_3_1.ac1eeec82e66ebd06f03.png",
-    "static/media/Icon_Beneficii_2_1.png": "/test/static/media/Icon_Beneficii_2_1.717d127edd8488a14c3d.png",
-    "static/media/Icon_Beneficii_4_1.png": "/test/static/media/Icon_Beneficii_4_1.38cd83a83007797000ca.png",
-    "static/media/Icon_Beneficii_1_1.png": "/test/static/media/Icon_Beneficii_1_1.1d4aba69c5da8146f8fe.png",
     "index.html": "/test/index.html",
-    "main.47125c2f.css.map": "/test/static/css/main.47125c2f.css.map",
-    "main.6223d017.js.map": "/test/static/js/main.6223d017.js.map"
+    "main.be47e623.css.map": "/test/static/css/main.be47e623.css.map",
+    "main.3ab8f88e.js.map": "/test/static/js/main.3ab8f88e.js.map"
   },
   "entrypoints": [
-    "static/css/main.47125c2f.css",
-    "static/js/main.6223d017.js"
+    "static/css/main.be47e623.css",
+    "static/js/main.3ab8f88e.js"
   ]
 }
